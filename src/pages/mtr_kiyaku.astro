@@ -1,0 +1,56 @@
+---
+import Breadcrumbs from '@/components/Breadcrumbs.astro'
+import PageHead from '@/components/PageHead.astro'
+import Layout from '@/layouts/Layout.astro'
+import { getAllProjects } from '@/lib/data-utils'
+
+const projects = await getAllProjects()
+---
+
+<Layout class="max-w-3xl">
+  <PageHead slot="head" title="About" />
+  <Breadcrumbs items={[{ label: 'About', icon: 'lucide:info' }]} />
+
+ 	<h2>日本語</h2><br>
+	<h4>・改造について</h4>
+	<p>
+		このサイト、またはAME-TREC名義でmodrinthで公開されているリソースパックは改造自由です。また、改造したリソースパックは再配布が可能で、改造したものは改造した本人が自由に規約を定めることができます。
+		<br
+		/>ただし、製造名盤を書き換えるだけ、readmeの内容を書き換えるだけ、などは改造とはみなしません。
+		<br />他媒体への移植についてはご相談ください。
+	</p><br>
+	<h4>・サーバー内での利用について</h4>
+	<p>
+		サーバー内では改造無しでの再配布が可能です。できれば、クレジット表記をお願いします。
+	</p><br>
+	<h4>SNSへの投稿について</h4>
+	<p>大歓迎です！できれば、クレジット表記をお願いします</p><br>
+	<h4>・禁止行為</h4>
+	<p>
+		自作発言、改造無しでのサーバー以外での再配布、事故を再現したスクリーンショットの撮影は禁止です。
+	</p><br>
+	<h4>
+		なお、リソースパックをダウンロードした時点でこの規約に同意したとみなします。
+	</h4><br>
+	<h1>EN</h1>
+<h4>・Modifications</h4>
+<p>
+    You are free to modify the resource packs published on this site or under the AME-TREC name on Modrinth. Modified resource packs may also be redistributed, and the person who made the modifications can freely set the terms of use for their modified version.
+    <br />
+    However, simply rewriting the **manufacturing nameplate** or rewriting the contents of the **readme** will not be considered a modification.
+    <br />
+    Please consult with us regarding porting to other platforms.
+</p>
+<h4>・Usage on Servers</h4>
+<p>
+    Redistribution without modification is allowed within a server environment. We would appreciate it if you could include a **credit** (attribution).
+</p>
+<h4>Posting to Social Media (SNS)</h4>
+<p>You are very welcome to! We would appreciate it if you could include a **credit** (attribution).</p>
+<h4>・Prohibited Actions</h4>
+<p>
+    Claiming the resource pack as your own creation, redistribution outside of a server environment without modification, and taking screenshots that recreate an **accident** are prohibited.
+</p>
+<h3>
+    By downloading the resource pack, you are considered to have agreed to these terms of use.</h3>
+</Layout>

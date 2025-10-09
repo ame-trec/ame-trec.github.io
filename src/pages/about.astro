@@ -1,0 +1,30 @@
+---
+import Breadcrumbs from '@/components/Breadcrumbs.astro'
+import PageHead from '@/components/PageHead.astro'
+import Layout from '@/layouts/Layout.astro'
+import { getAllProjects } from '@/lib/data-utils'
+
+const projects = await getAllProjects()
+---
+
+<Layout class="max-w-3xl">
+  <PageHead slot="head" title="About" />
+  <Breadcrumbs items={[{ label: 'About', icon: 'lucide:info' }]} />
+
+  <section>
+    <h3>このサイトについて</h3>	 <br>
+<p>
+		このサイトではきっとMTRのリソースパックを公開しています。いつか伺かのゴーストも公開・・・できるといいね。
+	</p><br>
+<h3>リンクについて</h3>	<br>
+	<p>
+報告任意、リンクフリーです。<br>
+<img src ="image/baner.png"width=200 height=40> <br>
+サイト名：AME-TREC サイトアドレス：https://ame-trec.github.io/ame-trec2.0/
+	</p><br>
+<h3>管理人について</h3>
+	<p>
+	末期の静鉄狂。連絡はmisskey：@Tokuyama@misskey.flowers　またはmastdon：@Tokuyama_S11@ukadon.shillest.net　Discord鯖：https://discord.gg/95bHKQjZXF	まで
+	</p>
+  </section>
+</Layout>
