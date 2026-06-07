@@ -3,44 +3,114 @@
     <title>AME-TREC</title>
     <link href="https://ame-trec.github.io/feed.xml" rel="self" />
     <link href="https://ame-trec.github.io" />
-    <updated>2026-06-07T17:26:30+09:00</updated>
+    <updated>2026-06-07T19:52:41+09:00</updated>
     <author>
         <name>tokuyama</name>
     </author>
     <id>https://ame-trec.github.io</id>
 
     <entry>
-        <title>テスト</title>
+        <title>LighTRain 露</title>
         <author>
             <name>tokuyama</name>
         </author>
-        <link href="https://ame-trec.github.io/tesuto-3.html"/>
-        <id>https://ame-trec.github.io/tesuto-3.html</id>
-            <category term="Raincity"/>
+        <link href="https://ame-trec.github.io/lightrain-lu.html"/>
+        <id>https://ame-trec.github.io/lightrain-lu.html</id>
+            <category term="LighTRain"/>
 
-        <updated>2026-06-07T17:26:20+09:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2026-06-07T19:52:26+09:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    LighTRain 露 これはなに？ Minecraftの鉄道mod、Minecraft transit railweyの追加車両リソースパックです。 三岐鉄道101系をモチーフにしています。 一部パーツをTTk+、水音車両からお借りしています。 利用規約を必ずご確認ください リソースパックの利用は自己責任で。公開物のダウンロード・利用により生じた損害に関して、制作者は一切の責任を負いません。 三岐鉄道101系は、西武鉄道401系を譲り受けて導入された通勤形電車です。 もともとは吊り掛け駆動の車両でしたが、西武時代にカルダン駆動、冷房化がされました。 三岐鉄道導入の際、前照灯の形状変更、塗装変更、台車の換装、ワンマン運転対応改造を行いました。 また最近は、リバイバル塗装を行っており、このリソースパックもその塗装にしました。 もうすぐ引退するようなので乗ろう！ ダウンロード
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h1 id="lightrain-露">LighTRain 露</h1>
+<h2 id="これはなに？">これはなに？</h2>
+<p>Minecraftの鉄道mod、Minecraft transit railweyの追加車両リソースパックです。<br>三岐鉄道101系をモチーフにしています。<br>一部パーツをTTk+、水音車両からお借りしています。<br>利用規約を必ずご確認ください<br>リソースパックの利用は自己責任で。公開物のダウンロード・利用により生じた損害に関して、制作者は一切の責任を負いません。  </p><h2 id="元ネタとなった車両について">元ネタとなった車両について</h2>
+<p>三岐鉄道101系は、西武鉄道401系を譲り受けて導入された通勤形電車です。<br>もともとは吊り掛け駆動の車両でしたが、西武時代にカルダン駆動、冷房化がされました。<br>三岐鉄道導入の際、前照灯の形状変更、塗装変更、台車の換装、ワンマン運転対応改造を行いました。<br>また最近は、リバイバル塗装を行っており、このリソースパックもその塗装にしました。<br>もうすぐ引退するようなので乗ろう！  </p><p><a href="https://modrinth.com/resourcepack/mtrlightrain_tsuyu">ダウンロード</a></p>
+            ]]>
+        </content>
     </entry>
     <entry>
-        <title>テスト</title>
+        <title>Raincity_B</title>
+        <author>
+            <name>tokuyama</name>
+        </author>
+        <link href="https://ame-trec.github.io/raincity_b.html"/>
+        <id>https://ame-trec.github.io/raincity_b.html</id>
+            <category term="Raincity"/>
+
+        <updated>2026-06-07T19:44:50+09:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    これはなに？ Minecraftの鉄道mod、Minecraft transit railweyの追加車両リソースパックです。 名鉄モ770形をモチーフにしています。 一部パーツをTTk+、水音車両からお借りしています。 **利用規約を必ずご確認ください** リソースパックの利用は**自己責任**で。公開物のダウンロード・利用により生じた損害に関して、制作者は一切の責任を負いません。 &nbsp;&nbsp; 名鉄モ770形は、1987年から製造された、名古屋鉄道（名鉄）の路面電車車両です。 「名鉄に路面電車なんてあったっけ？」という人もいるかもしれませんが、その昔、岐阜市内線と呼ばれる軌道線があったそうで。 先に登場していたモ880形からデザインはかなり引き継いでいますが、違うところも結構あったりします。 また、名鉄600V線区（岐阜市内線や美濃町線などを全部ひっくるめた名称）初の冷房車でもありました。 その後2005年に岐阜市内線が廃止。福井鉄道に譲渡され、今でも元気に走っています。 ちなみに先輩のモ880は機器更新されたりするらしいですが、それはまた別のお話…。 &nbsp;ダウンロードはここから→https://modrinth.com/resourcepack/raincity_b
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+    <h2 id="korehanani">
+      これはなに？
+    </h2>
+
+  <p>
+    Minecraftの鉄道mod、Minecraft transit railweyの追加車両リソースパックです。  
+<br>名鉄モ770形をモチーフにしています。  
+<br>一部パーツをTTk+、水音車両からお借りしています。  
+<br>**利用規約を必ずご確認ください**  
+<br>リソースパックの利用は**自己責任**で。公開物のダウンロード・利用により生じた損害に関して、制作者は一切の責任を負いません。
+  </p>
+
+  <p>
+    &nbsp;&nbsp;
+  </p>
+
+    <h2 id="yuan-netatonatutache-liang-nituite">
+      元ネタとなった車両について
+    </h2>
+
+  <p>
+    名鉄モ770形は、1987年から製造された、名古屋鉄道（名鉄）の路面電車車両です。  
+<br>「名鉄に路面電車なんてあったっけ？」という人もいるかもしれませんが、その昔、岐阜市内線と呼ばれる軌道線があったそうで。  
+<br>先に登場していたモ880形からデザインはかなり引き継いでいますが、違うところも結構あったりします。  
+<br>また、名鉄600V線区（岐阜市内線や美濃町線などを全部ひっくるめた名称）初の冷房車でもありました。  
+<br>その後2005年に岐阜市内線が廃止。福井鉄道に譲渡され、今でも元気に走っています。  
+<br>ちなみに先輩のモ880は機器更新されたりするらしいですが、それはまた別のお話…。
+  </p>
+
+  <p>
+    &nbsp;ダウンロードはここから→https://modrinth.com/resourcepack/raincity_b
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>LighTRain_雫</title>
         <author>
             <name>tokuyama</name>
         </author>
         <link href="https://ame-trec.github.io/tesuto-2.html"/>
         <id>https://ame-trec.github.io/tesuto-2.html</id>
+        <media:content url="https://ame-trec.github.io/media/posts/2/shizuku.png" medium="image" />
             <category term="LighTRain"/>
 
         <updated>2026-06-07T11:56:18+09:00</updated>
             <summary type="html">
                 <![CDATA[
-                    テストだお これはテストです。
+                        <img src="https://ame-trec.github.io/media/posts/2/shizuku.png" alt="shizuku" />
+                    LighTRain 雫 これはなに？ Minecraftの鉄道mod、Minecraft transit railweyの追加車両リソースパックです。 静岡鉄道の1000形をモチーフにしています。 また、水音車両の水音標準Aをベースに作られています。 利用規約を必ずご確認ください リソースパックの利用は自己責任で。公開物のダウンロード・利用により生じた損害に関して、制作者は一切の責任を負いません。 静岡鉄道1000形は、静岡鉄道が1973年（昭和48年）から1985年（昭和60年）にかけて導入した、同社初のオールステンレス車両です。 車体は東急電鉄7200系をベースにしており、側面はそっくり。 おれんじ賞なる謎の賞（どうやら同時期の静岡県の車両に対して与えられた賞らしい）ももらっており、そのクオリティの高さが伺えます。 2024年6月に引退し、引退後は熊本電鉄やえちぜん鉄道に譲渡されており、えちぜん鉄道では恐竜電車という観光列車に改造されました。 ダウンロード
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <h1 id="テストだお">テストだお</h1>
-<p>これはテストです。</p>
+                    <p><img src="https://ame-trec.github.io/media/posts/2/shizuku.png" class="type:primaryImage" alt="shizuku" /></p>
+                <h1 id="lightrain-雫">LighTRain 雫</h1>
+<h2 id="これはなに？">これはなに？</h2>
+<p>Minecraftの鉄道mod、Minecraft transit railweyの追加車両リソースパックです。<br>静岡鉄道の1000形をモチーフにしています。<br>また、水音車両の水音標準Aをベースに作られています。
+<strong>利用規約を必ずご確認ください</strong><br>リソースパックの利用は<strong>自己責任</strong>で。公開物のダウンロード・利用により生じた損害に関して、制作者は一切の責任を負いません。  </p><h2 id="元ネタとなった車両について">元ネタとなった車両について</h2>
+<p>静岡鉄道1000形は、静岡鉄道が1973年（昭和48年）から1985年（昭和60年）にかけて導入した、同社初のオールステンレス車両です。<br> 車体は東急電鉄7200系をベースにしており、側面はそっくり。 おれんじ賞なる謎の賞（どうやら同時期の静岡県の車両に対して与えられた賞らしい）ももらっており、そのクオリティの高さが伺えます。<br> 2024年6月に引退し、引退後は熊本電鉄やえちぜん鉄道に譲渡されており、えちぜん鉄道では恐竜電車という観光列車に改造されました。</p><p><a href="https://modrinth.com/resourcepack/lightrain_shizuku">ダウンロード</a></p>
             ]]>
         </content>
     </entry>
