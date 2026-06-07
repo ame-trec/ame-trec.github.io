@@ -3,12 +3,25 @@
     <title>AME-TREC</title>
     <link href="https://ame-trec.github.io/feed.xml" rel="self" />
     <link href="https://ame-trec.github.io" />
-    <updated>2026-06-07T15:12:52+09:00</updated>
+    <updated>2026-06-07T17:26:30+09:00</updated>
     <author>
         <name>tokuyama</name>
     </author>
     <id>https://ame-trec.github.io</id>
 
+    <entry>
+        <title>テスト</title>
+        <author>
+            <name>tokuyama</name>
+        </author>
+        <link href="https://ame-trec.github.io/tesuto-3.html"/>
+        <id>https://ame-trec.github.io/tesuto-3.html</id>
+            <category term="Raincity"/>
+
+        <updated>2026-06-07T17:26:20+09:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>テスト</title>
         <author>
