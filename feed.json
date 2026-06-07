@@ -1,0 +1,29 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "AME-TREC",
+    "description": "",
+    "home_page_url": "https://ame-trec.github.io",
+    "feed_url": "https://ame-trec.github.io/feed.json",
+    "user_comment": "",
+    "icon": "https://ame-trec.github.io/media/website/AME-TREC-2.png",
+    "author": {
+        "name": "tokuyama"
+    },
+    "items": [
+        {
+            "id": "https://ame-trec.github.io/tesuto-2.html",
+            "url": "https://ame-trec.github.io/tesuto-2.html",
+            "title": "テスト",
+            "summary": "テストだお これはテストです。",
+            "content_html": "<h1 id=\"テストだお\">テストだお</h1>\n<p>これはテストです。</p>",
+            "author": {
+                "name": "tokuyama"
+            },
+            "tags": [
+                   "LighTRain"
+            ],
+            "date_published": "2026-06-07T11:56:18+09:00",
+            "date_modified": "2026-06-07T15:12:52+09:00"
+        }
+    ]
+}

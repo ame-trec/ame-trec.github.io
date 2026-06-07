@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>AME-TREC</title>
+    <link href="https://ame-trec.github.io/feed.xml" rel="self" />
+    <link href="https://ame-trec.github.io" />
+    <updated>2026-06-07T15:12:52+09:00</updated>
+    <author>
+        <name>tokuyama</name>
+    </author>
+    <id>https://ame-trec.github.io</id>
+
+    <entry>
+        <title>テスト</title>
+        <author>
+            <name>tokuyama</name>
+        </author>
+        <link href="https://ame-trec.github.io/tesuto-2.html"/>
+        <id>https://ame-trec.github.io/tesuto-2.html</id>
+            <category term="LighTRain"/>
+
+        <updated>2026-06-07T11:56:18+09:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    テストだお これはテストです。
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h1 id="テストだお">テストだお</h1>
+<p>これはテストです。</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
